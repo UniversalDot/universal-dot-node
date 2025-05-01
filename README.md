@@ -17,7 +17,7 @@ This repository provides Node implementation based [Substrate](https://www.subst
 - Dao - Complex Task require more effort from a community rather than single users. This is accomplished by creating decentralized autonomous organizations.
 - Did - Allows transfer of assets to other Accounts.
 - Grant - Allows grants to be requested by accounts that have 0 balance. Grants are awarded each block to random grant requesters from a Treasury Account. 
-=======
+
 
 ## Getting Started
 
